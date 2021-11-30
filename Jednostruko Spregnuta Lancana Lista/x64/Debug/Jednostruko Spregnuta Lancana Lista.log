@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\marko\source\repos\SPA\Jednostruko Spregnuta Lancana Lista\Source.c(69,9): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+  Jednostruko Spregnuta Lancana Lista.vcxproj -> C:\Users\marko\source\repos\SPA\x64\Debug\Jednostruko Spregnuta Lancana Lista.exe

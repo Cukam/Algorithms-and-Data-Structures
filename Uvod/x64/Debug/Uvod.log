@@ -1,0 +1,11 @@
+﻿  Source.c
+C:\Users\marko\source\repos\SPA\Uvod\Source.c(86,9): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\marko\source\repos\SPA\Uvod\Source.c(86,9): message : consider using '%lli' in the format string
+C:\Users\marko\source\repos\SPA\Uvod\Source.c(86,9): message : consider using '%Ii' in the format string
+C:\Users\marko\source\repos\SPA\Uvod\Source.c(86,9): message : consider using '%I64i' in the format string
+C:\Users\marko\source\repos\SPA\Uvod\Source.c(90,9): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\marko\source\repos\SPA\Uvod\Source.c(90,9): message : consider using '%lli' in the format string
+C:\Users\marko\source\repos\SPA\Uvod\Source.c(90,9): message : consider using '%Ii' in the format string
+C:\Users\marko\source\repos\SPA\Uvod\Source.c(90,9): message : consider using '%I64i' in the format string
+C:\Users\marko\source\repos\SPA\Uvod\Source.c(101,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+  Uvod.vcxproj -> C:\Users\marko\source\repos\SPA\x64\Debug\Uvod.exe
